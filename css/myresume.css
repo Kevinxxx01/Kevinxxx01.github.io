@@ -12,3 +12,6 @@ font-family: 'Noto Sans TC', sans-serif;
 font-size:1.2rem;
 text-transform:none;
 }
+.bg-primary{
+background-color: #20008a!important;
+background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-light.png");
